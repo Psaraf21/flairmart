@@ -1,0 +1,49 @@
+/* General container styling */
+/* .container { */
+    /* background-color: #f8f9fa; Light background color */
+    /* border-radius: 8px; Rounded corners */
+    /* padding: 2rem; */
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); Subtle shadow */
+  /* } */
+  
+  /* Heading styling */
+  h1 {
+    color: #28a745; /* Green color for the heading */
+  }
+  
+  /* Horizontal line styling */
+  hr {
+    border-top: 2px solid #28a745; /* Green color for the line */
+    margin-bottom: 2rem;
+  }
+  
+  /* Form styling */
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-label {
+    font-weight: 600;
+  }
+  
+  .form-control {
+    border-radius: 5px; /* Rounded corners for inputs */
+    border: 1px solid #ced4da; /* Light border color */
+  }
+  
+  .form-control:focus {
+    border-color: #28a745; /* Green border on focus */
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25); /* Green shadow on focus */
+  }
+  
+  /* Button styling */
+  .btn-success {
+    background-color: #28a745; /* Green background */
+    border-color: #28a745; /* Green border */
+  }
+  
+  .btn-success:hover {
+    background-color: #218838; /* Darker green on hover */
+    border-color: #1e7e34; /* Darker green border on hover */
+  }
+  

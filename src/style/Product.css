@@ -1,0 +1,44 @@
+
+.small-text {
+    font-size: 1.15rem; 
+  }
+  
+  .d-flex.justify-content-center.align-items-center img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .custom-button {
+    background-color: green; 
+    color: #fff;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .custom-button:hover {
+    border: 1px solid green;
+   
+  }
+  .custom2-button {
+    background-color: black; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    font-size: 14px; 
+    text-decoration: none; 
+    display: inline-block; 
+  }
+  
+  .custom2-button:hover {
+    
+    color: black; 
+    transition: background-color 0.3s ease; 
+    border: 1px solid black;
+  }
+  
+  .card-img-top {
+    display: block;
+    margin: 0 auto;
+  }
+  

@@ -1,0 +1,46 @@
+
+  .cart-item {
+    border-bottom: 1px solid #dee2e6;
+    padding: 1rem 0;
+  }
+  
+  .bg-image {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .btn-outline-secondary {
+    border-color: #6c757d;
+    color: #6c757d;
+  }
+  
+  .btn-outline-secondary:hover {
+    background-color: #6c757d;
+    color: #fff;
+  }
+  .card-header {
+    background-color: #e9ecef;
+  }
+  .btn-dark {
+    background-color: #343a40;
+    border-color: #343a40;
+  }
+  
+  .btn-dark:hover {
+    background-color: #23272b;
+    border-color: #1d2124;
+  }
+  .list-group-item {
+    padding: 1rem;
+  }
+  
+  .text-muted {
+    color: #6c757d;
+  }
+  

@@ -1,0 +1,47 @@
+
+.card-header {
+    background-color: #e9ecef;
+  }
+  
+  .btn-outline-success {
+    border-color: #28a745;
+    color: #28a745;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .form-label {
+    font-weight: 500;
+  }
+  
+  .form-control {
+    border-radius: 4px;
+    box-shadow: none;
+  }
+  
+  .form-control:focus {
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+  }
+ 
+  .card {
+    border-radius: 8px;
+  }
+  
+  .card-body {
+    padding: 2rem;
+  }
+  
+  h1, h4 {
+    font-weight: 600;
+  }
+  
+  .text-success {
+    color: #28a745 !important;
+  }
+  
+  .bg-success {
+    background-color: #28a745 !important;
+  }

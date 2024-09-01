@@ -1,0 +1,36 @@
+
+.bg-black {
+    background-color: #000 !important;
+  }
+  
+  .text-green {
+    color: #28a745 !important; 
+  }
+  
+  .footer-link {
+    color: #eee;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .footer-link:hover {
+    color: #28a745;
+  }
+  
+  hr.bg-green {
+    border-top: 1px solid #28a745; 
+  }
+  
+  footer p {
+    font-size: 0.9rem;
+    color: #eee;
+  }
+  
+  .fa {
+    transition: color 0.3s;
+  }
+  
+  .fa:hover {
+    color: #28a745; 
+  }
+  

@@ -1,0 +1,31 @@
+
+.nav-link {
+    color: #28a745 !important; 
+    transition: color 0.3s ease; 
+  }
+  
+  .nav-link:hover {
+    color: #218838 !important;
+  }
+  
+  .navbar-brand {
+    color: #28a745 !important;
+    transition: color 0.3s ease; 
+  }
+  
+  .navbar-brand:hover {
+    color: #218838 !important; 
+  }
+  
+  .btn-outline-success {
+    color: #28a745 !important; 
+    border-color: #28a745 !important; 
+    transition: color 0.3s ease, border-color 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .btn-outline-success:hover {
+    color: #ffffff !important; 
+    background-color: #218838 !important; 
+    border-color: #218838 !important; 
+  }
+  
