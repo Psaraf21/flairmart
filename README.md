@@ -8,13 +8,13 @@ Product Detail Page: Provides detailed information about each product, including
 Add to Cart: Allows users to add products to their cart and proceed to checkout.
 Recommendation Slider: Suggests similar products in a sliding marquee format for better user engagement.
 Loading States: Utilizes skeleton loading components for a smooth user experience during data fetches.
-![Screenshot 2024-08-31 222632](https://github.com/user-attachments/assets/87e5d65a-1a27-41de-a211-a1ed3bfa337e)!
-[Screenshot 2024-08-31 224207](https://github.com/user-attachments/assets/2d339212-0093-4833-9524-a114b2760cf1)!
-[Screenshot 2024-08-31 224319](https://github.com/user-attachments/assets/7272bc69-1108-4d68-a65b-406317bc61a6)
-![Screenshot 2024-08-31 224256](https://github.com/user-attachments/assets/34b64620-2d3d-4ebd-a9ef-bbf013aad101)!
-[Screenshot 2024-08-31 224339](https://github.com/user-attachments/assets/a2b689e5-49a2-443b-af64-10f297ff0f29)!
-[Screenshot 2024-08-31 224353](https://github.com/user-attachments/assets/9acd1462-0e6c-4a28-9caa-2dc35598d172)!
-[Screenshot 2024-08-31 224408](https://github.com/user-attachments/assets/9f205b05-12a2-40b7-95a2-e6f721104e15)
+![Screenshot 2024-08-31 222632](https://github.com/user-attachments/assets/87e5d65a-1a27-41de-a211-a1ed3bfa337e)
+![Screenshot 2024-08-31 224207](https://github.com/user-attachments/assets/2d339212-0093-4833-9524-a114b2760cf1)
+![Screenshot 2024-08-31 224319](https://github.com/user-attachments/assets/7272bc69-1108-4d68-a65b-406317bc61a6)
+![Screenshot 2024-08-31 224256](https://github.com/user-attachments/assets/34b64620-2d3d-4ebd-a9ef-bbf013aad101)
+![Screenshot 2024-08-31 224339](https://github.com/user-attachments/assets/a2b689e5-49a2-443b-af64-10f297ff0f29)
+![Screenshot 2024-08-31 224353](https://github.com/user-attachments/assets/9acd1462-0e6c-4a28-9caa-2dc35598d172)
+![Screenshot 2024-08-31 224408](https://github.com/user-attachments/assets/9f205b05-12a2-40b7-95a2-e6f721104e15)
 
 ![Screenshot 2024-08-31 224712](https://github.com/user-attachments/assets/10de0df8-e1e5-44a6-b64a-f7c479a592d4)
 ![Screenshot 2024-08-31 224657](https://github.com/user-attachments/assets/53618baf-821d-4e42-9f13-f89da0557f32)
